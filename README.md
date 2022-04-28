@@ -3,8 +3,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer%20and%20Software+Engineer;Code%20|%20Design%20|%20Innovate%20|%20Experiment;React%20|%20Svelte%20|%20Tailwind%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-<hr/>
-<h4 align="center">Code, Design, Innovate and Experiment.</h4>
+
 
 
 
